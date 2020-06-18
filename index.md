@@ -24,7 +24,7 @@ The organization runs by a very small set of laws, supported by a wide variety o
 
 We make decisions based on data about their impact. This requires that:
 
-1. Decisions be made by tphose most-impacted, not most-accountable
+1. Decisions be made by those most-impacted, not most-accountable
 2. <more>
 
 <details>
